@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <center>
+      <Button fx:id="restartBtn" mnemonicParsing="false" onAction="#restartGame" text="Restart" BorderPane.alignment="CENTER" />
+   </center>
+   <top>
+      <ImageView fitHeight="600.0" fitWidth="800.0" pickOnBounds="true" BorderPane.alignment="CENTER">
+         <image>
+            <Image url="@../../../../../sprites/gameover.png" />
+         </image>
+      </ImageView>
+   </top>
+</BorderPane>

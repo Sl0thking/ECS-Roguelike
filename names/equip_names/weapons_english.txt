@@ -1,0 +1,25 @@
+Sword
+Dagger
+Lance
+Axe
+Heartrender
+Beheader
+Sledgehammer
+Jagged Blade
+Saber
+Tearer
+Staff
+Balanced Staff
+Bo
+Gutripper
+Warmaul
+Polearm
+Ritual Blade
+Shard
+Shanker
+Flameforged Blade
+Icebound Staff
+Edge
+Frying Pan
+Tennis Bat
+Runeblade

@@ -1,0 +1,25 @@
+Schwert
+Dolch
+Lanze
+Axt
+Herzreisser
+Koepfer
+Vorschlaghammer
+Gezackte Klinge
+Schneide
+Aufreisser
+Stab
+Ausbalancierter Stab
+Bo
+Darmreisser
+Kriegskeule
+Stangenwaffe
+Ritualklinge
+Splitter
+Schaft
+Flammengeschmiedete Klinge
+Eisgebundener Stab
+Saebel
+Bratpfanne
+Tennisschläger
+Runenklinge

@@ -1,0 +1,7 @@
+.inv-slot {
+	-fx-background-image: url("../hud_pics/inventory_background.png");
+}
+
+.inv-slot-selected {
+	-fx-background-image: url("../hud_pics/inventory_background_selected.png");
+}
